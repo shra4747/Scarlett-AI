@@ -1,0 +1,13 @@
+names:
+- Note
+- Robot
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: robot-detection-xru6m
+  url: https://universe.roboflow.com/main-wcgiu/robot-detection-xru6m/dataset/5
+  version: 5
+  workspace: main-wcgiu
+test: ../test/images
+train: ../train/images
+val: ../valid/images
